@@ -1,3 +1,3 @@
-# Documentation and guide for html5-qrcode library
+# Documentation and guide for imagecodes library
 
-Original library hosted at [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode).
+Original library hosted at [scanapp-org/imagecodes](https://github.com/scanapp-org/imagecodes).
